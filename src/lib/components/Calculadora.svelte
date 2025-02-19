@@ -1,9 +1,11 @@
 <script lang="ts">
     import Botao from "./Botao.svelte";
     import Linha from "./Linha.svelte";
+    import Tela from "./Tela.svelte";
 </script>
 
 <div class="calculadora">
+    <Tela valor="1234567891234567891211" />
     <Linha>
         <Botao destaque triplo texto="AC" />
         <Botao operacao texto="/" />
@@ -38,8 +40,8 @@
         --cor-fundo: #555;
     }
     .calculadora {
-        width: 150px;
-        height: 220px;
+        width: 180px;
+        height: 260px;
         display: flex;
         flex-direction: column;
         background-color: var(--cor-fundo);

@@ -8,6 +8,9 @@
 </main>
 
 <style>
+    :root {
+        font-size: 62.5%;
+    }
     :global(html, body) {
         margin: 0;
         padding: 0;
