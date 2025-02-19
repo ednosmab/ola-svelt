@@ -8,14 +8,24 @@
 </main>
 
 <style>
+    :global(html, body) {
+        margin: 0;
+        padding: 0;
+    }
+    :global(*) {
+        box-sizing: border-box;
+    }
+    :global(body) {
+        background-color: black;
+    }
     main {
         margin: 0;
         padding: 0;
-        box-sizing: border-box;
     }
     main {
         height: 100vh;
         display: flex;
         justify-content: center;
+        align-items: center;
     }
 </style>
