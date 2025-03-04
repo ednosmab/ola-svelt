@@ -58,8 +58,8 @@
         --cor-fundo: #555;
     }
     .calculadora {
-        width: 180px;
-        height: 260px;
+        width: 350px;
+        height: 500px;
         display: flex;
         flex-direction: column;
         background-color: var(--cor-fundo);

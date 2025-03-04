@@ -21,9 +21,10 @@
 <style>
     .botao {
         flex-basis: 25%;
-        height: 35px;
+        height: 70px;
         margin: 0;
         border: 1px solid var(--cor-fundo);
+        font-size: 3rem;
         cursor: pointer;
     }
     .triplo {
