@@ -1,3 +1,21 @@
+![image](https://github.com/user-attachments/assets/9be33a83-98ef-46ca-b9f7-1e0f7553aeba)
+
+<h1 align="center"> 🧮 Calculadora em Svelte </h1>
+
+Este projeto foi desenvolvido para entender como o Framework Svelte funciona, como utilizá-lo em uma aplicação prática, como trabalhar juntamente com o Typescript.
+
+## 🧰 Ferramentas utilizadas
+
+- Html 5
+- CSS 3 (Flex Box)
+- Javascript (POO)
+- Typescript
+- Svelte
+
+## <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/16x16.png" alt="Vercel" width="30" align="center" radius="50"> Deploy feito com Vercel
+
+https://ola-svelt.vercel.app/
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
